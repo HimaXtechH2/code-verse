@@ -44,3 +44,4 @@ document.getElementById("chatInput").addEventListener("keypress", function (e) {
     e.target.value = "";
   }
 });
+
